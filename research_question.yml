@@ -1,0 +1,48 @@
+# This file is in YAML format.  You must ensure that the punctuation
+# and whitespace is preserved.  Do NOT use Windows Notepad to edit this
+# file; use a real programming editor like Notepad++ instead.
+
+# Write your group name exactly as it appears on Canvas.
+group: a_group43
+
+# Write the names of your group members as a comma-separated list
+# within the square brackets.
+members: [Ameer Ogirimah, Ayesha Naz, Kajalben Bharatbhai Patel, Venkata Dharanendra Raju Gundraju, Shanmukha Krishna Yadav Gavvaji]
+
+# Write your general topic.  
+topic: Ghana Food Prices
+
+# Write your research question, following one of the three allowed templates.
+# Be sure your question is all on one line.
+RQ: Is there a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 to 2018?
+
+# Write your independent and dependent variables.  These should be the
+# column names where these variables are found in your dataset's CSV
+# file.
+independent-var: cmname
+dependent-var: price
+
+# Write the null hypothesis for your research question, again ensuring it is all on one line.
+null-hypothesis: There is no difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 and 2018
+
+# Write the alternative hypothesis for your research question, again ensuring it is all on one line.
+alt-hypothesis: There is a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 and 2018
+
+# Write the dataset URL.  Be sure it has the allowed hostname.
+dataset-url: "https://data.world/wfp/626e809c-c4fc-467b-a60c-129acb5e9320"
+
+# Paste the output of loading your dataset into R, and executing the
+# colnames() function, into the space below the `columns: |` line.
+# Put two spaces *before* every line you pasted.
+columns: |
+  d <- read.csv("ghana-food-prices-1.csv")
+  colnames(d)
+  [1] "date"     "cmname"  
+  [3] "unit"     "category"
+  [5] "price"    "currency"
+  [7] "country"  "admname" 
+  [9] "adm1id"   "mktname" 
+  [11] "mktid"    "cmid"    
+  [13] "ptid"     "umid"    
+  [15] "catid"    "sn"      
+  [17] "default"
