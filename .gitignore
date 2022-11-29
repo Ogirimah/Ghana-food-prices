@@ -48,3 +48,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+.Rproj.user
+
+# Local development files
+*.Rhistory
+visualization.pdf
+*.Rproj
