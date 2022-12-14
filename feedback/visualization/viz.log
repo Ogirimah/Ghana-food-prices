@@ -1,0 +1,135 @@
+$group
+[1] "a_group43"
+
+$members
+[1] "Ameer Ogirimah"                    "Ayesha Naz"                       
+[3] "Kajalben Bharatbhai Patel"         "Venkata Dharanendra Raju Gundraju"
+[5] "Shanmukha Krishna Yadav Gavvaji"  
+
+$topic
+[1] "Ghana Food Prices"
+
+$RQ
+[1] "Is there a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 to 2018?"
+
+$`independent-var`
+[1] "cmname"
+
+$`dependent-var`
+[1] "price"
+
+$`null-hypothesis`
+[1] "There is no difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 and 2018"
+
+$`alt-hypothesis`
+[1] "There is a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 and 2018"
+
+$`dataset-url`
+[1] "https://data.world/wfp/626e809c-c4fc-467b-a60c-129acb5e9320"
+
+$columns
+[1] "d <- read.csv(\"ghana-food-prices-1.csv\")\ncolnames(d)\n[1] \"date\"     \"cmname\"  \n[3] \"unit\"     \"category\"\n[5] \"price\"    \"currency\"\n[7] \"country\"  \"admname\" \n[9] \"adm1id\"   \"mktname\" \n[11] \"mktid\"    \"cmid\"    \n[13] \"ptid\"     \"umid\"    \n[15] \"catid\"    \"sn\"      \n[17] \"default\""
+
+Warning message:
+In readLines(file) : incomplete final line found on 'research_question.yml'
+OK
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.3.6      ✔ purrr   0.3.4 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.1.4      ✔ stringr 1.4.0 
+✔ readr   2.1.3      ✔ forcats 0.5.1 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+null device 
+          1 
+$group
+[1] "a_group43"
+
+$members
+[1] "Ameer Ogirimah"                    "Ayesha Naz"                       
+[3] "Kajalben Bharatbhai Patel"         "Venkata Dharanendra Raju Gundraju"
+[5] "Shanmukha Krishna Yadav Gavvaji"  
+
+$topic
+[1] "Ghana Food Prices"
+
+$RQ
+[1] "Is there a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 to 2018?"
+
+$`independent-var`
+[1] "cmname"
+
+$`dependent-var`
+[1] "price"
+
+$`null-hypothesis`
+[1] "There is no difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 and 2018"
+
+$`alt-hypothesis`
+[1] "There is a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 and 2018"
+
+$`dataset-url`
+[1] "https://data.world/wfp/626e809c-c4fc-467b-a60c-129acb5e9320"
+
+$columns
+[1] "d <- read.csv(\"ghana-food-prices-1.csv\")\ncolnames(d)\n[1] \"date\"     \"cmname\"  \n[3] \"unit\"     \"category\"\n[5] \"price\"    \"currency\"\n[7] \"country\"  \"admname\" \n[9] \"adm1id\"   \"mktname\" \n[11] \"mktid\"    \"cmid\"    \n[13] \"ptid\"     \"umid\"    \n[15] \"catid\"    \"sn\"      \n[17] \"default\""
+
+Warning message:
+In readLines(file) : incomplete final line found on 'research_question.yml'
+OK
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.3.6      ✔ purrr   0.3.4 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.1.4      ✔ stringr 1.4.0 
+✔ readr   2.1.3      ✔ forcats 0.5.1 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+null device 
+          1 
+$group
+[1] "a_group43"
+
+$members
+[1] "Ameer Ogirimah"                    "Ayesha Naz"                       
+[3] "Kajalben Bharatbhai Patel"         "Venkata Dharanendra Raju Gundraju"
+[5] "Shanmukha Krishna Yadav Gavvaji"  
+
+$topic
+[1] "Ghana Food Prices"
+
+$RQ
+[1] "Is there a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 to 2018?"
+
+$`independent-var`
+[1] "cmname"
+
+$`dependent-var`
+[1] "price"
+
+$`null-hypothesis`
+[1] "There is no difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 and 2018"
+
+$`alt-hypothesis`
+[1] "There is a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 and 2018"
+
+$`dataset-url`
+[1] "https://data.world/wfp/626e809c-c4fc-467b-a60c-129acb5e9320"
+
+$columns
+[1] "d <- read.csv(\"ghana-food-prices-1.csv\")\ncolnames(d)\n[1] \"date\"     \"cmname\"  \n[3] \"unit\"     \"category\"\n[5] \"price\"    \"currency\"\n[7] \"country\"  \"admname\" \n[9] \"adm1id\"   \"mktname\" \n[11] \"mktid\"    \"cmid\"    \n[13] \"ptid\"     \"umid\"    \n[15] \"catid\"    \"sn\"      \n[17] \"default\""
+
+Warning message:
+In readLines(file) : incomplete final line found on 'research_question.yml'
+OK
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.3.6      ✔ purrr   0.3.4 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.1.4      ✔ stringr 1.4.0 
+✔ readr   2.1.3      ✔ forcats 0.5.1 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+null device 
+          1 
