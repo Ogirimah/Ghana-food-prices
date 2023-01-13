@@ -1,10 +1,35 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+# Ghana Food Prices: Comparison of Local and Imported Rice
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+**Ameer Ogirimah, Ayesha Naz, Kajalben Bharatbhai Patel, Venkata Dharanendra Raju Gundraju, Shanmukha Krishna Yadav Gavvaji**
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+**Thursday, January 12, 2023**
 
 ---
+
+## Abstract
+
+---
+
+## Introduction
+
+---
+
+## Visualization
+
+---
+
+## Analysis
+
+---
+
+## Conclusions
+
+---
+
+## References
+
+---
+
 
 ## Edit a file
 
