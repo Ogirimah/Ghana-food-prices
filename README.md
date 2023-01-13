@@ -31,18 +31,18 @@ The relationship between the price of foreign and imported goods has always been
 
 ---
 
-## 1. Introduction
+## Introduction
 
 ---
-### 1.1. Context
+### Context
 
 Research has shown that Ghanaian households still prefer to consume imported rice at the expense of domestically produced rice (Research Institute (IFPRI) I, and Agriculture (MoFA), 2020). This has resulted in fear of lopsided foreign exchange and the price of domestically produced rice being dependent on imported rice (Amikuzuno, Issahaku and Daadi, 2020).
 
-### 1.2. Topic
+### Topic
 
 The topic “Ghana food prices: comparison of local and imported rice” assesses the relationship between the price of imported rice and domestically produced rice in Ghana.
 
-### 1.3. Research question and hypothesis
+### Research question and hypothesis
 
 Taking into consideration the above, we try to answer the research question:
 >Is there a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 to 2018?
@@ -53,17 +53,17 @@ This is done by using our dataset to show that one of the two hypotheses below i
 
 - b)	Alternative Hypothesis: There is a difference in the mean price between rice (imported) and rice (local) in Ghana between the years 2008 and 2018.
 
-### 1.4. Dataset
+### Dataset
 
 The dataset is available on the Data.world website and contains the prices of staple food in Ghana between the years 2008 to 2018 (WFP - World Food Programme, 2020). The data source is World Food Program (WFP), and an updated version of the data is available on the WFP website (WFP - World Food Programme, 2023).
 
 The "cmname" column in the dataset represents the commodity name (imported rice and local rice) in commodity quantity units; it is our independent variable column, and the data it contains is nominal. While the "price" column represents the price of the commodities in GHS (Ghanaian cedi), it is our dependent variable, and the data it contains is ordinal.
 
-### 1.5. Results
+### Results
 
 The data show that there is a difference in means between imported rice and domestically produced rice.
 
-### 1.6. Conclusions
+### Conclusions
 
 The answer to our research question is not surprising, as the research question could be more interesting and is easily answered by just viewing the dataset.
 
